@@ -37,6 +37,10 @@ columns:[
 {
 headerText:"Header Text",
 svyUUID:"7E52674D-2CCA-4B57-89DF-ABA0024603E4"
+},
+{
+headerText:"Header Text",
+svyUUID:"08F12E2B-F94F-4355-98E0-776798396FED"
 }
 ]
 },
