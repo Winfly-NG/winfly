@@ -30,6 +30,14 @@ properties:{\
 packagename:\"12grid\",\
 specname:\"column\"\
 }",
+items:[
+{
+name:"table",
+typeName:"bootstrapcomponents-table",
+typeid:47,
+uuid:"C1B69ECC-D6D6-4547-942E-623E5B8C82FF"
+}
+],
 location:"1,1",
 typeid:46,
 uuid:"1A45067C-E245-487E-AC62-A7289465F0DF"
