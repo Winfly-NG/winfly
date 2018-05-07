@@ -16,11 +16,11 @@ styleClass:"text-center h2",
 text:"Riparazioni Esterne"
 },
 location:"10,170",
-name:"label_148",
+name:"label",
 size:"280,24",
 typeName:"bootstrapcomponents-label",
 typeid:47,
-uuid:"022EF8BA-24AD-49D5-A470-FEC819542405"
+uuid:"181B7B8A-155E-4390-BE19-93023F9B7C6C"
 },
 {
 anchors:15,

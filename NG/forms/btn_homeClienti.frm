@@ -22,11 +22,11 @@ styleClass:"text-center h2",
 text:"Clienti"
 },
 location:"10,170",
-name:"label_1",
+name:"label",
 size:"280,24",
 typeName:"bootstrapcomponents-label",
 typeid:47,
-uuid:"75B7F6CF-A02F-4BD9-A25F-C44DF830971A"
+uuid:"588EF27B-7098-41DA-A3DD-4A67B19E0AED"
 },
 {
 anchors:15,

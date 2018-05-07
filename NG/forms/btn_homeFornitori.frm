@@ -13,14 +13,14 @@ height:24,
 width:280
 },
 styleClass:"text-center h2",
-text:"Fornitori"
+text:"Clienti"
 },
 location:"10,170",
 name:"label_1",
 size:"280,24",
 typeName:"bootstrapcomponents-label",
 typeid:47,
-uuid:"4094AA82-785C-4F65-B0F1-0CDC77AB98D3"
+uuid:"6D602D6A-8DEE-45FB-8ED9-ED65A2FAC378"
 },
 {
 height:255,
