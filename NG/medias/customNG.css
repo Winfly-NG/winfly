@@ -30,7 +30,7 @@
 .btn-home {
 	border-radius: 15px;
 	box-shadow:0 6px 6px -6px #777;
-	background: linear-gradient(to left, blue, pink);
+	background: linear-gradient(to right, blue, pink);
 }
 
 .btn-home:focus {
