@@ -32,6 +32,14 @@ specname:\"column\"\
 }",
 items:[
 {
+json:{
+columns:[
+{
+headerText:"Header Text",
+svyUUID:"7E52674D-2CCA-4B57-89DF-ABA0024603E4"
+}
+]
+},
 name:"table",
 typeName:"bootstrapcomponents-table",
 typeid:47,
