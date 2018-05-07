@@ -1,0 +1,11 @@
+customProperties:"lazyLoading:false",
+dataProviderID1:"cod_desc_id",
+dataProviderID2:"descrizione",
+dataSource:"db:/winfly/cod_desc",
+name:"DIPE",
+returnDataProviders:1,
+showDataProviders:2,
+sortOptions:"descrizione asc",
+typeid:34,
+uuid:"D233DB54-D8F5-43EC-B049-2F1DCAB5025E",
+valueListType:1

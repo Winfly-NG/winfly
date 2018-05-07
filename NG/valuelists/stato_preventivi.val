@@ -1,0 +1,7 @@
+addEmptyValue:1,
+customValues:"Da evadere|1\r\
+Parzialmente evaso|2\r\
+Evaso|3",
+name:"stato_preventivi",
+typeid:34,
+uuid:"CB83BE5C-6997-45D5-8ADC-E838895CF4DA"

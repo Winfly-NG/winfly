@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/winfly/clienti_fornitori",
+items:[
+{foreignColumnName:"clienti_fornitori_id",primaryDataProviderID:"controparte_id",typeid:23,uuid:"E383E25E-86BD-4134-B0E4-DB9743E42D6B"}
+],
+joinType:1,
+name:"doc_riparazioni_to_clienti_fornitori",
+primaryDataSource:"db:/winfly/doc_riparazioni",
+typeid:22,
+uuid:"01EDAC7A-0688-474C-AF69-D24CD6C49C66"

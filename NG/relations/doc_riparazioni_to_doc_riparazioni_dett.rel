@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/winfly/doc_riparazioni_dett",
+items:[
+{foreignColumnName:"documento_id",primaryDataProviderID:"documento_id",typeid:23,uuid:"2B00FDFC-A38A-45A1-ADC6-D2324AC62635"}
+],
+name:"doc_riparazioni_to_doc_riparazioni_dett",
+primaryDataSource:"db:/winfly/doc_riparazioni",
+typeid:22,
+uuid:"E5C324D8-E7F5-4831-B49B-D752ADF98F87"

@@ -1,0 +1,11 @@
+dataSource:"db:/winfly/doc_impegni",
+items:[
+{
+dataProviderIDToAggregate:"documento_id",
+name:"count_order",
+typeid:40,
+uuid:"9237003C-1402-4D46-A4C3-CD7AA56C0F91"
+}
+],
+typeid:39,
+uuid:"3AA3F277-7F26-4854-866C-70420E97C51A"

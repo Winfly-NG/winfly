@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/winfly/articoli",
+items:[
+{foreignColumnName:"articoli_id",primaryDataProviderID:"articolo_id",typeid:23,uuid:"079D5AE3-3902-4A00-8C00-C429394EA6D7"}
+],
+joinType:1,
+name:"doc_riparazioni_dett_to_articoli",
+primaryDataSource:"db:/winfly/doc_riparazioni_dett",
+typeid:22,
+uuid:"2CE9B6B3-102C-4961-92AF-8E288607BF90"

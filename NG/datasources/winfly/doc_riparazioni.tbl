@@ -1,0 +1,11 @@
+dataSource:"db:/winfly/doc_riparazioni",
+items:[
+{
+dataProviderIDToAggregate:"documento_id",
+name:"count_rip_esterne",
+typeid:40,
+uuid:"47B137D3-33E4-49B3-85E2-32A19CBA41F5"
+}
+],
+typeid:39,
+uuid:"7A43B07A-3E84-4853-B3ED-14D4D2F41536"

@@ -1,0 +1,10 @@
+customProperties:"lazyLoading:false",
+dataProviderID1:"tab_unit_mis_id",
+dataProviderID2:"cod_mis",
+dataSource:"db:/winfly/tab_unit_mis",
+name:"unità_di_misura",
+returnDataProviders:1,
+showDataProviders:2,
+typeid:34,
+uuid:"5961C28F-15BF-41BF-B7AA-94ECDA9FFCEE",
+valueListType:1

@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/winfly/articoli",
+items:[
+{foreignColumnName:"articoli_id",primaryDataProviderID:"scopes.globals.currID_search_articolo_id_02",typeid:23,uuid:"D9B181B0-0AA3-4C7C-A7FB-DE90FD9E032D"}
+],
+joinType:1,
+name:"to_articoli$currid_searc_articolo_id",
+primaryDataSource:"db:/winfly/articoli",
+typeid:22,
+uuid:"1F542C71-7F57-48F6-B2B0-16DF9F8ED5E7"

@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/winfly/anagrafiche",
+items:[
+{foreignColumnName:"anagrafiche_id",primaryDataProviderID:"clienti_fornitori_id",typeid:23,uuid:"2B492706-1954-4843-BCB9-E3AF8D29B263"}
+],
+name:"clienti_fornitori_to_anagrafiche",
+primaryDataSource:"db:/winfly/clienti_fornitori",
+typeid:22,
+uuid:"2F51EACF-833D-4DEC-B40E-BD43326243F2"
